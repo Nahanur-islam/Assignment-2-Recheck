@@ -178,6 +178,7 @@ nav li a {
     height: 550px;
     width: 540px;
     margin-right: 130px;
+   
 }
 
 /* setion-3 */
@@ -649,7 +650,7 @@ nav li a {
    
     /* .section-1 */
 
-    .section-1 {
+    .travel-1 {
         background: url(Images/banner.png);
         background-repeat: no-repeat;
         width: 360px;
@@ -710,37 +711,44 @@ nav li a {
     }
 
     /* section2 */
-    .section-2 {
+    .travel-2 {
         display: grid;
         gap: 50px;
         margin-top: 70px;
         margin-left: -140px;
     }
 
-    .section2-titile h1 {
+    .travel-2-titile h1 {
         font-size: 20px;
     }
 
-    .section2-titile p {
+    .travel-2-titile p {
         font-size: 14px;
         width: 320px;
 
     }
 
-    .section2-titile li {
+    .travel-2-titile li {
         font-size: 14px;
         width: 320px;
 
 
     }
-
-    .section2-titile .btn-primary {
+    .travel-2{
+        padding-bottom: 200px;
+        text-align: center;
+        align-items: center;
+    }
+.section2-img{
+    width: auto;
+}
+    .travel-2-titile .btn-primary {
         margin-top: 20px;
 
 
     }
 
-    .section2-img img {
+    .travel-2-img img {
         height: 340px;
         width: 365px;
         margin-left: 180px;
@@ -757,6 +765,7 @@ nav li a {
     .travel3 h1 {
         font-size: 20px;
         margin-left: -150px;
+        text-align: center;
        
       
 

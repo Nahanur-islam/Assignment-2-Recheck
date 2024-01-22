@@ -77,7 +77,7 @@ nav li a {
     margin-top: 80px;
 
 
-
+.
 }
 
 .banner-titile {
@@ -178,7 +178,6 @@ nav li a {
     height: 550px;
     width: 540px;
     margin-right: 130px;
-   
 }
 
 /* setion-3 */
@@ -186,19 +185,24 @@ nav li a {
     text-align: center;
     margin-top: 180px;
 }
-
+.travel3 h1{
+    margin-bottom: 50px;
+}
 .travel3 h1 {
     color: #131318;
     text-align: center;
     font-size: 40px;
     font-weight: 800;
 }
-
+.travel-head{
+    margin-bottom:30px ;
+}
 .travel3 p {
     color: rgba(19, 19, 24, 0.70);
     text-align: center;
     font-size: 16px;
     font-weight: 400;
+    margin-top: -375px;
 
 
 }
@@ -651,7 +655,7 @@ nav li a {
     /* .section-1 */
 
     .travel-1 {
-        background: url(Images/banner.png);
+        background: url(../image/Group13\(1\)\(1\).png);
         background-repeat: no-repeat;
         width: 360px;
         height: 500px;
@@ -734,14 +738,10 @@ nav li a {
 
 
     }
-    .travel-2{
-        padding-bottom: 200px;
+    .section2-img{
+        margin-bottom: 250px;
         text-align: center;
-        align-items: center;
     }
-.section2-img{
-    width: auto;
-}
     .travel-2-titile .btn-primary {
         margin-top: 20px;
 
@@ -761,11 +761,15 @@ nav li a {
         text-align: center;
         margin-top: -170px;
     }
-
+    .travel3 h1{
+        margin-bottom: 200px;
+        text-align: center;
+        align-items: center;
+    }
     .travel3 h1 {
         font-size: 20px;
         margin-left: -150px;
-        text-align: center;
+        padding-bottom: 200px;
        
       
 
